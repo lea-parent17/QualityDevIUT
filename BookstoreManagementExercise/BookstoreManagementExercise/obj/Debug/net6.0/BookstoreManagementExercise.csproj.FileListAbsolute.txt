@@ -1,0 +1,14 @@
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\bin\Debug\net6.0\BookstoreManagementExercise.exe
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\bin\Debug\net6.0\BookstoreManagementExercise.deps.json
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\bin\Debug\net6.0\BookstoreManagementExercise.runtimeconfig.json
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\bin\Debug\net6.0\BookstoreManagementExercise.dll
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\bin\Debug\net6.0\BookstoreManagementExercise.pdb
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.AssemblyInfoInputs.cache
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.AssemblyInfo.cs
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.csproj.CoreCompileInputs.cache
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.dll
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\refint\BookstoreManagementExercise.dll
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.pdb
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\BookstoreManagementExercise.genruntimeconfig.cache
+C:\Users\leapa\Bureau\BUT Info\BUT 3\Semestre 5\R5.8 Qualité dev\Exercice\Projets\BookstoreManagementExercise\BookstoreManagementExercise\obj\Debug\net6.0\ref\BookstoreManagementExercise.dll
